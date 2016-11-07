@@ -1,0 +1,16 @@
+{
+  "name": "campsi-find-references",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/campsi/node-find-reference.git"
+  },
+  "description": "Use a property path to lookup for values nested inside an object. Returns a pointer to that property rather than the primitive value.",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^3.1.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  }
+}
