@@ -12,5 +12,16 @@
   },
   "scripts": {
     "test": "mocha"
-  }
+  },
+  "keywords": [
+    "object",
+    "path",
+    "set",
+    "get",
+    "value",
+    "property",
+    "deep",
+    "reference",
+    "pointer"
+  ]
 }
